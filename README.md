@@ -5,8 +5,8 @@ UDPOI (Universal Digital Proof of Identity)
 
 ## DOCS
 
-- Pitch Presentation: <https://github.com/elledaniels/Proof_of_Identity/blob/main/docs/UDPOI_Pitch_Presentation_v1.pdf>
-- White Paper: <https://github.com/elledaniels/Proof_of_Identity/blob/main/docs/UDPOI_White%20Paper_v0.2.pdf>
+- Pitch Presentation: <https://github.com/MBCOT/Proof_of_Identity/blob/main/docs/UDPOI_Pitch_Presentation_v1.pdf>
+- White Paper: <https://github.com/MBCOT/Proof_of_Identity/blob/main/docs/UDPOI_White%20Paper_v0.2.pdf>
 
 
 ## Useful links
